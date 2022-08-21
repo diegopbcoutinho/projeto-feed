@@ -1,4 +1,4 @@
-# :movie_camera: Avail.io
+# Projeto Feed
  Projeto de Feed de Rede Social
 
 ![image](https://user-images.githubusercontent.com/105460652/185812289-241c225a-db7c-4c9f-9669-964a0150fc43.png)
