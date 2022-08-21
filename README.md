@@ -1,21 +1,28 @@
-# Feed Rede Social
+# :movie_camera: Avail.io
+ Projeto de Feed de Rede Social
 
-Esse projeto foi codificado com React.
+![image](https://user-images.githubusercontent.com/105460652/185812289-241c225a-db7c-4c9f-9669-964a0150fc43.png)
+ 
+# :wrench: Funcionalidades
+- Adicionar Posts
+- Aba de Mais Vistos
 
-## Projeto
+![image](https://user-images.githubusercontent.com/105460652/185812318-00bbecc1-b9b7-4eb2-83e7-79ea312b07b6.png)
 
-Simulação de Feed onde são feitas publicações contendo nome, usuário e data de publicação. Aba de mais vistos.
+# :mag_right: Conceitos abordados
+ - Consumo de API's
+ - React Router 
+ - React Hooks
+ - React Components
+ - SPA
 
-A ideia do projeto era realmente ser algo simples, com objetivo de praticar o uso das ferramentas react e de SPA.
+![image](https://user-images.githubusercontent.com/105460652/185812329-b1c89473-416d-4e0e-b65f-d598b8c23d0b.png)
+ 
+# 🚀 Tecnologias
+- React 
+- API
+- CSS
+- JSX
 
-## Conceitos e Ferramentas Utilizadas
+![image](https://user-images.githubusercontent.com/105460652/185812341-81840464-b52c-468d-accf-bc2123ca7066.png)
 
-### Componentização
-
-### React Hooks
-
-### Props
-
-### Routes
-
-### SPA
